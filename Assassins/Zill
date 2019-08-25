@@ -1,0 +1,35 @@
+{
+  "author": {
+    "name": " Zill",
+    "icon_url": "https://i.imgur.com/K29f4f8.png"
+  },
+  "color": 53380,
+  "footer": {
+    "text": "Tier: B",
+    "icon_url": "https://images.emojiterra.com/google/android-nougat/512px/1f3c6.png"
+  },
+  "thumbnail": "https://i.imgur.com/63NBWd1.png",
+  "image": "https://i.imgur.com/tYMIOf5.jpg", 
+  "fields": [
+    {
+      "name": "Position",
+      "value": "Jungle, Slayer",
+      "inline": true
+    },
+    {
+      "name": "Arcanas",
+      "value": "Atrocity, Guerilla, Skewer",
+      "inline": false
+    },
+    {
+      "name": "Build + {pun}",
+      "value": "{lc} {ek} {apo} {sa} {hd} {rbl}\n\n{ootm} {ek} {apo} {hd} {rbl} {son}",
+      "inline": false
+    },
+    {
+      "name": "Useful Links",
+      "value": "Click [here](https://www.youtube.com/watch?v=6WS11M20XWM) to check out Zill's hero spotlight!",
+      "inline": false
+    }
+  ]
+}
