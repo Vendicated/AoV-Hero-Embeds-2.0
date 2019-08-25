@@ -1,0 +1,35 @@
+{
+  "author": {
+    "name": "Nakroth",
+    "icon_url": "https://i.imgur.com/K29f4f8.png"
+  },
+  "color": 53380,
+  "footer": {
+    "text": "Tier: S",
+    "icon_url": "https://images.emojiterra.com/google/android-nougat/512px/1f3c6.png"
+  },
+  "thumbnail": "https://i.imgur.com/6XnQu90.jpg",
+  "image": "https://i.imgur.com/tKLiopB.jpg",
+  "fields": [
+    {
+      "name": "Position",
+      "value": "Jungle",
+      "inline": true
+    },
+    {
+      "name": "Arcanas",
+      "value": "Atrocity, Reave, Skewer",
+      "inline": false
+    },
+    {
+      "name": "Build + {pun}",
+      "value": "{sr} {gg} {rb} {oa} {hm} {boe}\n\n{sr} {gg} {rb} {oa} {ft} {hm}",
+      "inline": false
+    },
+    {
+      "name": "Useful Links",
+      "value": "Click [here](https://www.youtube.com/watch?v=z56ncGRZOpY) to check out Nakroth's Hero Spotlight!",
+      "inline": false
+    }
+  ]
+}
