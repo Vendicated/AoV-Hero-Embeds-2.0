@@ -1,0 +1,35 @@
+{
+   "author": {
+      "name": "Murad",
+      "icon_url": "https://i.imgur.com/UKUEyZG.png"
+   },
+   "color": 53380,
+   "footer": {
+      "text": "Tier: A",
+      "icon_url": "https://images.emojiterra.com/google/android-nougat/512px/1f3c6.png"
+   },
+   "thumbnail": "https://i.imgur.com/7MVtkNY.png",
+   "image": "https://i.imgur.com/gTDyWhi.jpg",
+   "fields": [
+      {
+         "name": "Position",
+         "value": "Jungle",
+         "inline": true
+      },
+      {
+         "name": "Arcanas",
+         "value": "Blitz, 5x Reave, 5x Guerilla, Skewer",
+         "inline": false
+      },
+      {
+         "name": "Build + {pun}",
+         "value": "{sr} {wb} {rb} {oa} {ft} {boe}\n\n{sr} {wb} {rb} {oa} {ft} {mur}",
+         "inline": false
+      },
+      {
+         "name": "Useful Links",
+         "value": "Click [here](https://www.youtube.com/watch?v=jwHWEkqJ4Bc) to check out Murad's Hero Spotlight!",
+         "inline": false
+      }
+   ]
+}
