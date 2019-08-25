@@ -1,0 +1,35 @@
+{
+  "author": {
+    "name": " Zanis",
+    "icon_url": "https://i.imgur.com/yfptDE9.png"
+  },
+  "color": 53380,
+  "footer": {
+    "text": "Tier: B",
+    "icon_url": "https://images.emojiterra.com/google/android-nougat/512px/1f3c6.png"
+  },
+  "thumbnail": "https://i.imgur.com/P6mWEbR.png",
+  "image": "https://i.imgur.com/yQ3d2DV.jpg", 
+  "fields": [
+    {
+      "name": "Position",
+      "value": "Jungle, Slayer",
+      "inline": true
+    },
+    {
+      "name": "Arcanas",
+      "value": "Atrocity, Guerilla, Skewer",
+      "inline": false
+    },
+    {
+      "name": "Build + {pun}",
+      "value": "{sr} {gg} {oa} {cs} {hm} {boe}\n\n{hm} {gg} {oa} {cs} {ft} {mot}",
+      "inline": false
+    },
+    {
+      "name": "Useful Links",
+      "value": "Click [here](https://www.youtube.com/watch?v=wo1m5kIlAok) to check out Zanis hero spotlight!",
+      "inline": false
+    }
+  ]
+}
