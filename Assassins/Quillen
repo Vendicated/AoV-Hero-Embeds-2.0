@@ -1,0 +1,34 @@
+{ "author": {
+ "name": "Quillen",
+ "icon_url": "https://i.imgur.com/K29f4f8.png"
+},
+ "color": 53380,
+ "footer": {
+ "text": "Tier: S",
+ "icon_url": "https://images.emojiterra.com/google/android-nougat/512px/1f3c6.png"
+ },
+  "thumbnail": "https://i.imgur.com/kpmW6Sv.png",
+  "image": "https://i.imgur.com/DSPjDNE.jpg",
+  "fields": [
+    {
+     "name": "Position",
+     "value": "Jungle",
+     "inline": true
+  },
+  {
+     "name": "Arcana",
+     "value": "Rampage, Assassinate, Skewer",
+     "inline": false
+  },
+  {
+     "name": "Build + {pun}",
+     "value": "{sr} {hs} {cs} {rb} {oa} {ft}",
+     "inline": false
+  },
+  {
+     "name": "Useful links",
+     "value": "Click [here](https://youtu.be/9Yrd2SE-Aa0) to check out Quillen's Hero Spotlight!",
+     "inline": false
+  }
+ ]
+}
