@@ -1,0 +1,35 @@
+{
+  "author": {
+    "name": "Batman",
+    "icon_url": "https://i.imgur.com/K29f4f8.png"
+  },
+  "color": 53380,
+  "footer": {
+    "text": "Tier: B+",
+    "icon_url": "https://images.emojiterra.com/google/android-nougat/512px/1f3c6.png"
+  },
+  "thumbnail": "https://imgur.com/GLesZPA.png",
+  "image": "https://i.imgur.com/iTERpov.jpg", 
+  "fields": [
+    {
+      "name": "Position",
+      "value": "Jungle/Solo", 
+      "inline": true
+    },
+    {
+      "name": "Arcanas",
+      "value": "Onslaught, Assasinate, Skewer",
+      "inline": false
+    },
+    {
+      "name": "Build + {pun} ",
+      "value": "{sr} {gg} {rb} {ft} {hm} {boe}\n\n{rb} {hs} {ft} {oa} {hm} {boe}",
+      "inline": false
+    },
+    {
+      "name": "Useful Links",
+      "value": "Click [here](https://www.youtube.com/watch?v=WDcLQQYv7Ug) to check out Batman's Hero Spotlight!",
+      "inline": false
+    }
+  ]
+}
