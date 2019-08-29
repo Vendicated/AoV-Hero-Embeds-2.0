@@ -1,0 +1,35 @@
+{
+  "author": {
+    "name": "Baldum",
+    "icon_url": "https://i.imgur.com/R0YeVnB.png"
+  },
+  "color": 53380,
+  "footer": {
+    "text": "Tier: S",
+    "icon_url": "https://images.emojiterra.com/google/android-nougat/512px/1f3c6.png"
+  },
+  "thumbnail": "https://i.imgur.com/0Jg7FNy.png",
+  "image": "https://i.imgur.com/eQ3KOMG.jpg", 
+  "fields": [
+    {
+      "name": "Position",
+      "value": "Slayer, Roam",
+      "inline": true
+    },
+    {
+      "name": "Arcanas",
+      "value": "Indomitable, Assasinate, Valiance",
+      "inline": false
+    },
+    {
+      "name": "Build + {fli} ",
+      "value": "{eotw} {gg} {ta} {mot} {mop} {boe}",
+      "inline": false
+    },
+    {
+      "name": "Useful Links",
+      "value": "Click [here](https://www.youtube.com/watch?v=n11t2gMMDDE) to check out Baldum's hero spotlight!",
+      "inline": false
+    }
+  ]
+}
