@@ -1,0 +1,35 @@
+{
+  "author": {
+    "name": "Ryoma",
+    "icon_url": "https://i.imgur.com/yfptDE9.png"
+  },
+  "color": 53380,
+  "footer": {
+    "text": "Tier: A",
+    "icon_url": "https://images.emojiterra.com/google/android-nougat/512px/1f3c6.png"
+  },
+  "thumbnail": "https://i.imgur.com/gQeOIYV.png",
+  "image": "https://i.imgur.com/ecgkiGi.jpg",
+  "fields": [
+    {
+      "name": "Position",
+      "value": "Slayer",
+      "inline": true
+    },
+    {
+      "name": "Arcanas",
+      "value": "Onslaught, Assassinate, Skewer",
+      "inline": false
+    },
+    {
+      "name": "Build + {fli} ",
+      "value": "{rb} {gg} {fc} {ft} {mur} {ds}\n\n{sr} {gg} {rb} {fc} {ft} {boe}",
+      "inline": false
+    },
+    {
+      "name": "Useful Links",
+      "value": "Click [here](https://m.youtube.com/watch?v=1bX5YKSE8WU) to check out Ryoma's Spotlight!",
+      "inline": false 
+    }
+  ]
+}
