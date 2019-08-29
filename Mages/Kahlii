@@ -1,0 +1,35 @@
+{
+  "author": {
+    "name": "Khalii",
+    "icon_url": "https://i.imgur.com/2ykK0bh.png"
+  },
+  "color": 53380,
+  "footer": {
+    "text": "Tier: B",
+    "icon_url": "https://images.emojiterra.com/google/android-nougat/512px/1f3c6.png"
+  },
+  "thumbnail": "https://i.imgur.com/KJJcjrG.png",
+  "image": "https://i.imgur.com/hdDaI42.jpg",
+  "fields": [
+    {
+      "name": "Position",
+      "value": "Mid",
+      "inline": true
+    },
+    {
+      "name": "Arcanas",
+      "value": "Blitz, Guerilla, Flurry",
+      "inline": false
+    },
+    {
+      "name": "Build + {fli} ",
+      "value": "{ootm} {ek} {apo} {hd} {rbl} {son}",
+      "inline": false
+    },
+    {
+      "name": "Useful Links",
+      "value": "Click [here](https://m.youtube.com/watch?v=iIVfOGD-pD0) to check out Khalii's Hero Spotlight!",
+      "inline": false
+    }
+  ]
+}
