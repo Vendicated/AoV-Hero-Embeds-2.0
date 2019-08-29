@@ -1,0 +1,35 @@
+{
+  "author": {
+    "name": "Qi",
+    "icon_url": "https://i.imgur.com/R0YeVnB.png"
+  },
+  "color": 53380,
+  "footer": {
+    "text": "Tier: B",
+    "icon_url": "https://images.emojiterra.com/google/android-nougat/512px/1f3c6.png"
+  },
+  "thumbnail": "https://i.imgur.com/lWPpBMB.png",
+  "image": "https://i.imgur.com/NH0TrNq.png", 
+  "fields": [
+    {
+      "name": "Position",
+      "value": "Top Lane",
+      "inline": true
+    },
+    {
+      "name": "Arcanas",
+      "value": "Onslaught, Assassinate, Skewer",
+      "inline": false
+    },
+    {
+      "name": "Build + {fli}",
+      "value": "{gg} {rb} {fc} {ft} {hm} {boe}",
+      "inline": false
+    },
+    {
+      "name": "Useful Links",
+      "value": "Click [here](https://www.youtube.com/watch?v=jfbzLDCYXmw) to check out Qi's hero spotlight!",
+      "inline": false
+    }
+  ]
+}
