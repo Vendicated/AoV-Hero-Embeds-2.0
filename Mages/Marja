@@ -1,0 +1,35 @@
+{
+  "author": {
+    "name": "Marja",
+    "icon_url": "https://i.imgur.com/2ykK0bh.png"
+  },
+  "color": 53380,
+  "footer": {
+    "text": "Tier: B",
+    "icon_url": "https://images.emojiterra.com/google/android-nougat/512px/1f3c6.png"
+  },
+  "thumbnail": "https://imgur.com/0EjGkTz.png",
+  "image": "https://i.imgur.com/oi5Ylyq.jpg",
+  "fields": [
+    {
+      "name": "Position",
+      "value": "Slayer",
+      "inline": true
+    },
+    {
+      "name": "Arcanas",
+      "value": "Violate, Benevolence, Flurry",
+      "inline": false
+    },
+    {
+      "name": "Build + {fli} ",
+      "value": "{fb} {ba} {rbl} {boo} {son} {hd}",
+      "inline": false
+    },
+    {
+      "name": "Useful Links",
+      "value": "Click [here](https://www.youtube.com/watch?v=TNKyJeZKn3Q) to check out Marja's Hero Spotlight!",
+      "inline": false
+    }
+  ]
+}
