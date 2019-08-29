@@ -1,0 +1,35 @@
+{
+  "author": {
+    "name": "Slimz",
+    "icon_url": "https://i.imgur.com/KjCyGsc.png"
+  },
+  "color": 53380,
+  "footer": {
+    "text": "Tier: B",
+    "icon_url": "https://images.emojiterra.com/google/android-nougat/512px/1f3c6.png"
+  },
+  "thumbnail": "https://imgur.com/he7Bu2t.png",
+  "image": "https://i.imgur.com/0tfEK4i.jpg",
+  "fields": [
+    {
+      "name": "Position",
+      "value": "Abyssal",
+      "inline": true
+    },
+    {
+      "name": "Arcanas",
+      "value": "Blitz, Guerilla, Skewer",
+      "inline": false
+    },
+    {
+      "name": "Build + {fli} ",
+      "value": "{wb} {cs} {dh} {bos} {mur} {boe}",
+      "inline": false
+    },
+    {
+      "name": "Useful Links",
+      "value": "Click [here](https://m.youtube.com/watch?v=IxgcA2-yZM4) to check out Slimz' Hero Spotlight!",
+      "inline": false 
+    }
+  ]
+}
