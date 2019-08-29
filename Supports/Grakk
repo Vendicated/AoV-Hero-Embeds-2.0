@@ -1,0 +1,35 @@
+{
+    "author": {
+      "name": "Grakk",
+      "icon_url": "https://i.imgur.com/tUMClbT.png"
+    },
+    "color": 53380,
+    "footer": {
+      "text": "Tier: B+",
+      "icon_url": "https://images.emojiterra.com/google/android-nougat/512px/1f3c6.png"
+    },
+    "thumbnail": "https://i.imgur.com/HHqUpqF.png",
+    "image": "https://i.imgur.com/O8uhY7A.jpg",
+    "fields": [
+      {
+        "name": "Position",
+        "value": "Support",
+        "inline": true
+      },
+      {
+        "name": "Arcanas",
+        "value": "Indomitable, Colossus (X2), Benevolence (X8), Valiance",
+        "inline": false
+      },
+      {
+        "name": "Build + {fli}",
+        "value": "{eotw} {hs} {ta} {gs} {mop} {boe}",
+        "inline": false
+      },
+      {
+        "name": "Useful Links",
+        "value": "Click [here](https://www.youtube.com/watch?v=hp0zpbOdF7A) to check out Grakk's Hero Spotlight!",
+        "inline": false
+      }
+    ]
+  }
