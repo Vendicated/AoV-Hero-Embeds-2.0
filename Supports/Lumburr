@@ -1,0 +1,35 @@
+{
+    "author": {
+      "name": "Lumburr",
+      "icon_url": "https://i.imgur.com/tUMClbT.png"
+    },
+    "color": 53380,
+    "footer": {
+      "text": "Tier: A",
+      "icon_url": "https://images.emojiterra.com/google/android-nougat/512px/1f3c6.png"
+    },
+    "thumbnail": "https://imgur.com/xJ4438i.png",
+    "image": "https://i.imgur.com/uIQboNB.jpg",
+    "fields": [
+      {
+        "name": "Position",
+        "value": "Support",
+        "inline": true
+      },
+      {
+        "name": "Arcanas",
+        "value": "Rampage, Tyrant, Skewer",
+        "inline": false
+      },
+      {
+        "name": "Build + {hea}",
+        "value": "{eotw} {sb} {gs} {ta} {fc} {boe}\n\n{rotf} {gg} {ta} {gs} {fc} {boe}",
+        "inline": false
+      },
+      {
+        "name": "Useful Links",
+        "value": "Click [here](https://www.youtube.com/watch?v=b11SRc-PKrg) to check out Lumburr's Hero Spotlight!",
+        "inline": false
+      }
+    ]
+  }
