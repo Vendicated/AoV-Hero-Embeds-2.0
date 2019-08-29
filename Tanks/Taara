@@ -1,0 +1,35 @@
+{
+  "author": {
+    "name": "Taara",
+    "icon_url": "https://i.imgur.com/R0YeVnB.png"
+  },
+  "color": 53380,
+  "footer": {
+    "text": "Tier: A",
+    "icon_url": "https://images.emojiterra.com/google/android-nougat/512px/1f3c6.png"
+  },
+  "thumbnail": "https://i.imgur.com/E64fdCy.png",
+  "image": "https://i.imgur.com/wyvXOH6.jpg",
+  "fields": [
+    {
+      "name": "Position",
+      "value": "Solo",
+      "inline": true
+    },
+    {
+      "name": "Arcanas",
+      "value": "Indomitable, Guerilla, Valiance",
+      "inline": false
+    },
+    {
+      "name": "Build + {spr}",
+      "value": "{gg} {mor} {gs} {mop} {ow} {boe}",
+      "inline": false
+    },
+    {
+      "name": "Useful Links",
+      "value": "Click [here](https://www.youtube.com/watch?v=WHcKHGS8SZg) to check out Taara's Hero Spotlight!",
+      "inline": false
+    }
+  ]
+}
