@@ -1,0 +1,35 @@
+{
+  "author": {
+    "name": "Raz",
+    "icon_url": "https://i.imgur.com/2ykK0bh.png"
+  },
+  "color": 53380,
+  "footer": {
+    "text": "Tier: S",
+    "icon_url": "https://images.emojiterra.com/google/android-nougat/512px/1f3c6.png"
+  },
+  "thumbnail": "https://i.imgur.com/3eqGRqg.png",
+  "image": "https://i.imgur.com/2yeR8pC.jpg",
+  "fields": [
+    {
+      "name": "Position",
+      "value": "Mid",
+      "inline": true
+    },
+    {
+      "name": "Arcanas",
+      "value": "Violate, Benevolence, Flurry",
+      "inline": false
+    },
+    {
+      "name": "Build + {fli} ",
+      "value": "{pt} {gg} {boo} {hd} {sm} {rbl}",
+      "inline": false
+    },
+    {
+      "name": "Useful Links",
+      "value": "Click [here](https://www.youtube.com/watch?v=Ilx2w82_Fkc) to check out Raz's Hero Spotlight!",
+      "inline": false
+    }
+  ]
+}
