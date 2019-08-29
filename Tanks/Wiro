@@ -1,0 +1,32 @@
+{
+  "author": 
+  {
+    "name": " Wiro",
+    "icon_url": "https://i.imgur.com/R0YeVnB.png"
+  },
+  "color": 53380,
+  "footer": 
+  {
+    "text": "Tier: F",
+    "icon_url": "https://images.emojiterra.com/google/android-nougat/512px/1f3c6.png"
+  },
+  "thumbnail": "https://i.imgur.com/Z6jg6s6.jpg ",
+  "image": " https://i.imgur.com/8vxAEA7.jpg ",
+  "fields": [
+    {
+      "name": "Position",
+      "value": "Slayer, Roaming",
+      "inline": true
+    },
+    {
+      "name": "Arcanas",
+      "value": "Indomitable, Guerilla, Skewer",
+      "inline": false
+    },
+    {
+      "name": "Build + {fli}",
+      "value": "{mor} {gg} {bb} {gs} {sotl} {ft}",
+      "inline": false
+    }
+  ]
+}
