@@ -1,0 +1,35 @@
+{
+  "author": {
+    "name": "Tel'annas",
+    "icon_url": "https://i.imgur.com/KjCyGsc.png"
+  },
+  "color": 53380,
+  "footer": {
+    "text": "Tier: S",
+    "icon_url": "https://images.emojiterra.com/google/android-nougat/512px/1f3c6.png"
+  },
+  "thumbnail": "https://imgur.com/yAdz3Rp.png",
+  "image": "https://i.imgur.com/J8JY9zq.jpg",
+  "fields": [
+    {
+      "name": "Position",
+      "value": "Abyssal",
+      "inline": true
+    },
+    {
+      "name": "Arcanas",
+      "value": "Blitz, Guerilla, Skewer",
+      "inline": false
+    },
+    {
+      "name": "Build + {fli} ",
+      "value": "{wb} {cs} {ss} {bos} {mur} {boe}",
+      "inline": false
+    },
+    {
+      "name": "Useful Links",
+      "value": "Click [here](https://www.youtube.com/watch?v=zgJxZ2ttJIE) to check out Tel'annas's Hero Spotlight!",
+      "inline": false 
+    }
+  ]
+}
