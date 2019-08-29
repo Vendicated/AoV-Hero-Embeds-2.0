@@ -1,0 +1,35 @@
+{
+  "author": {
+    "name": "Violet",
+    "icon_url": "https://i.imgur.com/KjCyGsc.png"
+  },
+  "color": 53380,
+  "footer": {
+    "text": "Tier: S",
+    "icon_url": "https://images.emojiterra.com/google/android-nougat/512px/1f3c6.png"
+  },
+  "thumbnail": "https://imgur.com/lcKyUzb.png",
+  "image": "https://i.imgur.com/FQz7Osl.jpg",
+  "fields": [
+    {
+      "name": "Position",
+      "value": "Abyssal",
+      "inline": true
+    },
+    {
+      "name": "Arcanas",
+      "value": "Atrocity, Guerilla, Skewer",
+      "inline": false
+    },
+    {
+      "name": "Build + {fli} ",
+      "value": "{rb} {wb} {cs} {oa} {mur} {boe}",
+      "inline": false
+    },
+    {
+      "name": "Useful Links",
+      "value": "Click [here](https://www.youtube.com/watch?v=hj8oHzqO9Hw) to check out Violet's Hero Spotlight!",
+      "inline": false 
+    }
+  ]
+}
