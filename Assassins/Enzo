@@ -1,0 +1,35 @@
+{
+   "author": {
+      "name": "Enzo",
+      "icon_url": "https://i.imgur.com/UKUEyZG.png"
+   },
+   "color": 53380,
+   "footer": {
+      "text": "Tier: SSS",
+      "icon_url": "https://images.emojiterra.com/google/android-nougat/512px/1f3c6.png"
+   },
+   "thumbnail": "https://i.imgur.com/NpNPFNi.png",
+   "image": "https://i.imgur.com/yzb9fxh.jpg",
+   "fields": [
+      {
+         "name": "Position",
+         "value": "Jungle",
+         "inline": true
+      },
+      {
+         "name": "Arcanas",
+         "value": "Atrocity, Reave, Skewer",
+         "inline": false
+      },
+      {
+         "name": "Build + {pun}",
+         "value": "{sr} {wb} {rb} {oa} {cs} {boe}\n\n{sr} {wb} {rb} {oa} {hm} {cs}",
+         "inline": false
+      },
+      {
+         "name": "Useful Links",
+         "value": "Click [here](https://www.youtube.com/watch?v=LWSXesUOEKk) to check out Enzo's Hero Spotlight!",
+         "inline": false
+      }
+   ]
+}
