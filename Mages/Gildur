@@ -1,0 +1,35 @@
+{
+  "author": {
+    "name": "Gildur",
+    "icon_url": "https://i.imgur.com/2ykK0bh.png"
+  },
+  "color": 53380,
+  "footer": {
+    "text": "Tier: B",
+    "icon_url": "https://images.emojiterra.com/google/android-nougat/512px/1f3c6.png"
+  },
+  "thumbnail": "https://imgur.com/qcSzQ8R.png",
+  "image": "https://i.imgur.com/IjH1lyA.jpg",
+  "fields": [
+    {
+      "name": "Position",
+      "value": "Mid",
+      "inline": true
+    },
+    {
+      "name": "Arcanas",
+      "value": "Violate, Benevolence, Flurry",
+      "inline": false
+    },
+    {
+      "name": "Build + {fli} ",
+      "value": "{pt} {fb} {boo} {hd} {apo} {son}",
+      "inline": false
+    },
+    {
+      "name": "Useful Links",
+      "value": "Click [here](https://m.youtube.com/watch?v=DgN1DmrZQZk) to check out Gildur's Hero Spotlight!",
+      "inline": false
+    }
+  ]
+}
