@@ -1,0 +1,35 @@
+{
+  "author": {
+    "name": "Skud",
+    "icon_url": "https://i.imgur.com/yfptDE9.png"
+  },
+  "color": 53380,
+  "footer": {
+    "text": "Tier: S",
+    "icon_url": "https://images.emojiterra.com/google/android-nougat/512px/1f3c6.png"
+  },
+  "thumbnail": "https://i.imgur.com/GsZzuhY.png",
+  "image": "https://i.imgur.com/AkgtPAa.png",
+  "fields": [
+    {
+      "name": "Position",
+      "value": "Slayer",
+      "inline": true
+    },
+    {
+      "name": "Arcanas",
+      "value": "Onslaught, Assassinate, Skewer",
+      "inline": false
+    },
+    {
+      "name": "Build + {fli}",
+      "value": "{hs} {rb} {oa} {ft} {mur} {boe}",
+      "inline": false
+    },
+    {
+      "name": "Useful Links",
+      "value": "Click [here](https://www.youtube.com/watch?v=oU3R1-Ys0w8) to check out Skud's Hero Spotlight!",
+      "inline": false
+    }
+  ]
+}
