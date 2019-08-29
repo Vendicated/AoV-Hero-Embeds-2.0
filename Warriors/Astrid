@@ -1,0 +1,35 @@
+{
+  "author": {
+    "name": "Astrid",
+    "icon_url": "https://i.imgur.com/yfptDE9.png"
+  },
+  "color": 53380,
+  "footer": {
+    "text": "Tier: B+",
+    "icon_url": "https://images.emojiterra.com/google/android-nougat/512px/1f3c6.png"
+  },
+  "thumbnail": "https://i.imgur.com/WG0j12C.jpg",
+  "image": "https://i.imgur.com/zbrPqB6.jpg", 
+  "fields": [
+    {
+      "name": "Position",
+      "value": "Slayer, Jungle",
+      "inline": true
+    },
+    {
+      "name": "Arcanas",
+      "value": "Indomitable, Assasinate, Skewer",
+      "inline": false
+    },
+    {
+      "name": "Build + {fli} or {pun}",
+      "value": "{hm} {gg} {rb} {oa} {ft} {boe}\n\n{sr} {gg} {rb} {oa} {ft} {boe}",
+      "inline": false
+    },
+    {
+      "name": "Useful Links",
+      "value": "Click [here](https://www.youtube.com/watch?v=SpKZwrLQKkE) to check out Astrid's hero spotlight!",
+      "inline": false
+    }
+  ]
+}
