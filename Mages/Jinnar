@@ -1,0 +1,30 @@
+{
+  "author": {
+    "name": "Jinnar",
+    "icon_url": "https://i.imgur.com/2ykK0bh.png"
+  },
+  "color": 53380,
+  "footer": {
+    "text": "Tier: B",
+    "icon_url": "https://images.emojiterra.com/google/android-nougat/512px/1f3c6.png"
+  },
+  "thumbnail": "https://imgur.com/NeComki.png",
+  "image": "https://i.imgur.com/kDsq8dN.jpg",
+  "fields": [
+    {
+      "name": "Position",
+      "value": "Mid",
+      "inline": true
+    },
+    {
+      "name": "Arcanas",
+      "value": "Violate, Benevolence, Flurry",
+      "inline": false
+    },
+    {
+      "name": "Build + {fli} ",
+      "value": "{ootm} {gg} {sa} {hd} {rbl} {ao}",
+      "inline": false
+    }
+  ]
+}
