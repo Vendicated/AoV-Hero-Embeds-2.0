@@ -1,0 +1,30 @@
+{
+  "author": {
+    "name": "Hayate",
+    "icon_url": "https://i.imgur.com/KjCyGsc.png"
+  },
+  "color": 53380,
+  "footer": {
+    "text": "Tier: SS",
+    "icon_url": "https://images.emojiterra.com/google/android-nougat/512px/1f3c6.png"
+  },
+  "thumbnail": "https://i.imgur.com/rlBtO9F.jpg",
+  "image": "https://i.imgur.com/RdYqwGV.jpg",
+  "fields": [
+    {
+      "name": "Position",
+      "value": "Abyssal",
+      "inline": true
+    },
+    {
+      "name": "Arcanas",
+      "value": "Blitz, Guerilla, Skewer",
+      "inline": false
+    },
+    {
+      "name": "Build + {fli}",
+      "value": "{wb} {bb} {fta} {fc} {ss} {ds}",
+      "inline": false
+    }
+  ]
+}
