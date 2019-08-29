@@ -1,0 +1,35 @@
+{
+  "author": {
+    "name": "Joker",
+    "icon_url": "https://i.imgur.com/KjCyGsc.png"
+  },
+  "color": 53380,
+  "footer": {
+    "text": "Tier: B",
+    "icon_url": "https://images.emojiterra.com/google/android-nougat/512px/1f3c6.png"
+  },
+  "thumbnail": "https://imgur.com/pQAdekc.png",
+  "image": "https://i.imgur.com/Ds5VEWt.jpg",
+  "fields": [
+    {
+      "name": "Position",
+      "value": "Abyssal",
+      "inline": true
+    },
+    {
+      "name": "Arcanas",
+      "value": "8 Onslaught 2 Atrocity, Assasinate, Skewer",
+      "inline": false
+    },
+    {
+      "name": "Build + {fli}",
+      "value": "{hs} {rb} {oa} {ds} {ft} {mur}",
+      "inline": false
+    },
+    {
+      "name": "Useful Links",
+      "value": "Click [here](https://www.youtube.com/watch?v=njHOsdeAD9U) to check out Joker's Hero Spotlight!",
+      "inline": false
+    }
+  ]
+}
