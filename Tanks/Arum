@@ -1,0 +1,35 @@
+{
+  "author": {
+    "name": "Arum",
+    "icon_url": "https://i.imgur.com/R0YeVnB.png"
+  },
+  "color": 53380,
+  "footer": {
+    "text": "Tier: A",
+    "icon_url": "https://images.emojiterra.com/google/android-nougat/512px/1f3c6.png"
+  },
+  "thumbnail": "https://i.imgur.com/ZCt7PTI.png",
+  "image": "https://i.imgur.com/R8Hv9wq.jpg", 
+  "fields": [
+    {
+      "name": "Position",
+      "value": "Support",
+      "inline": true
+    },
+    {
+      "name": "Arcanas",
+      "value": "Indomitable, Benevolence, Valiance",
+      "inline": false
+    },
+    {
+      "name": "Build + {fli}",
+      "value": "{eotw} {gg} {mop} {gs} {sotl} {boe}",
+      "inline": false
+    },
+    {
+      "name": "Useful Links",
+      "value": "Click [here](https://www.youtube.com/watch?v=sDWtc-5zGcI) to check out Arum's hero spotlight!",
+      "inline": false
+    }
+  ]
+}
