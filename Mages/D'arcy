@@ -1,0 +1,30 @@
+{
+  "author": {
+    "name": "D'arcy",
+    "icon_url": "https://i.imgur.com/2ykK0bh.png"
+  },
+  "color": 53380,
+  "footer": {
+    "text": "Tier: SS",
+    "icon_url": "https://images.emojiterra.com/google/android-nougat/512px/1f3c6.png"
+  },
+  "thumbnail": "https://i.imgur.com/3aMDvGX.png",
+  "image": "https://i.imgur.com/HDmDNuO.jpg",
+  "fields": [
+    {
+      "name": "Position",
+      "value": "Mid, Jungle",
+      "inline": true
+    },
+    {
+      "name": "Arcanas",
+      "value": "Violate, Benevolence, Flurry",
+      "inline": false
+    },
+    {
+      "name": "Build + {pun} or {fli} ",
+      "value": "{pt} {ek} {apo} {hd} {rbl} {son}\n\n{lc} {ek} {apo} {hd} {rbl} {son}",
+      "inline": false
+    }
+  ]
+}
