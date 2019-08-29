@@ -1,0 +1,35 @@
+{
+  "author": {
+    "name": "Max",
+    "icon_url": "https://i.imgur.com/yfptDE9.png"
+  },
+  "color": 53380,
+  "footer": {
+    "text": "Tier: A",
+    "icon_url": "https://images.emojiterra.com/google/android-nougat/512px/1f3c6.png"
+  },
+  "thumbnail": "https://imgur.com/P5xPI3D.png",
+  "image": "https://i.imgur.com/aLjLhH7.jpg", 
+  "fields": [
+    {
+      "name": "Position",
+      "value": "Slayer", 
+      "inline": true
+    },
+    {
+      "name": "Arcanas",
+      "value": "Indomitable, Assasinate, Skewer",
+      "inline": false
+    },
+    {
+      "name": "Build + {exe}",
+      "value": "{mor} {gg} {rb} {ft} {mot} {boe}",
+      "inline": false
+    },
+    {
+      "name": "Useful Links",
+      "value": "Click [here](https://www.youtube.com/watch?v=kTaqXzdv2-Y) to check out Max' Hero Spotlight!",
+      "inline": false
+    }
+  ]
+}
