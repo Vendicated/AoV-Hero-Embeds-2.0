@@ -1,0 +1,35 @@
+{
+  "author": {
+    "name": "Elsu",
+    "icon_url": "https://i.imgur.com/KjCyGsc.png"
+  },
+  "color": 53380,
+  "image": "https://i.imgur.com/VxJjsh2.jpg",
+  "footer": {
+    "text": "Tier: A",
+    "icon_url": "https://images.emojiterra.com/google/android-nougat/512px/1f3c6.png"
+  },
+  "thumbnail": "https://i.imgur.com/QlGPRA4.png",
+  "fields": [
+    {
+      "name": "Position",
+      "value": "Mid, Abyssal Lane",
+      "inline": true
+    },
+    {
+      "name": "Arcanas",
+      "value": "Atrocity, Guerilla, Skewer",
+      "inline": false
+    },
+    {
+      "name": "Build + {fli}",
+      "value": "{rb} {wb} {ft} {fta} {mur} {boe}\n\n{rb} {fb} {ft} {oa} {mur} {boe}",
+      "inline": false
+    },
+    {
+      "name": "Useful Links",
+      "value": "Click [here](https://www.youtube.com/watch?v=u14c8vnMo-E) to check out Elsu's Hero Spotlight!",
+      "inline": false
+    }
+  ]
+}
