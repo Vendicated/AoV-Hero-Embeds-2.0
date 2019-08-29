@@ -1,0 +1,35 @@
+{
+  "author": {
+    "name": "Omen",
+    "icon_url": "https://i.imgur.com/yfptDE9.png"
+  },
+  "color": 53380,
+  "footer": {
+    "text": "Tier: S",
+    "icon_url": "https://images.emojiterra.com/google/android-nougat/512px/1f3c6.png"
+  },
+  "thumbnail": "https://i.imgur.com/Wh1W4CI.png",
+  "image": "https://i.imgur.com/Hdh2lXA.jpg", 
+  "fields": [
+    {
+      "name": "Position",
+      "value": "Slayer",
+      "inline": true
+    },
+    {
+      "name": "Arcanas",
+      "value": "Blitz, Guerilla, Skewer",
+      "inline": false
+    },
+    {
+      "name": "Build + {fli}",
+      "value": "{hm} {gg} {fta} {mot} {sotl} {boe}",
+      "inline": false
+    },
+    {
+      "name": "Useful Links",
+      "value": "Click [here](https://www.youtube.com/watch?v=Tf1sRMaJkkY) to check out Omen's hero spotlight!",
+      "inline": false
+    }
+  ]
+}
