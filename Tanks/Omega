@@ -1,0 +1,35 @@
+{
+  "author": {
+    "name": "Omega",
+    "icon_url": "https://i.imgur.com/R0YeVnB.png"
+  },
+  "color": 53380,
+  "footer": {
+    "text": "Tier: F",
+    "icon_url": "https://images.emojiterra.com/google/android-nougat/512px/1f3c6.png"
+  },
+  "thumbnail": "https://i.imgur.com/TAqQmWl.png",
+  "image": "https://i.imgur.com/rJfLynN.jpg", 
+  "fields": [
+    {
+      "name": "Position",
+      "value": "Support, Solo",
+      "inline": true
+    },
+    {
+      "name": "Arcanas",
+      "value": "Indomitable, Guerilla,  Skewer",
+      "inline": false
+    },
+    {
+      "name": "Build + {dis}",
+      "value": "{mor} {gg} {rb} {oa} {mot} {boe}\n\n{eotw} {hs} {gs} {ta} {mop} {boe}",
+      "inline": false
+    },
+    {
+      "name": "Useful Links",
+      "value": "Click [here](https://www.youtube.com/watch?v=dm3NowcAPFA) to check out Omega's hero spotlight!",
+      "inline": false
+    }
+  ]
+}
