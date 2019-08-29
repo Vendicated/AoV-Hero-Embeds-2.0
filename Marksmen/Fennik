@@ -1,0 +1,35 @@
+{
+  "author": {
+    "name": "Fennik",
+    "icon_url": "https://i.imgur.com/KjCyGsc.png"
+  },
+  "color": 53380,
+  "footer": {
+    "text": "Tier: SS",
+    "icon_url": "https://images.emojiterra.com/google/android-nougat/512px/1f3c6.png"
+  },
+  "thumbnail": "https://i.imgur.com/piFroXI.png",
+  "image": "https://i.imgur.com/I7Aydw9.jpg",
+  "fields": [
+    {
+      "name": "Position",
+      "value": "Abyssal, Jungle",
+      "inline": true
+    },
+    {
+      "name": "Arcanas",
+      "value": "Blitz, Guerilla, Skewer",
+      "inline": false
+    },
+    {
+      "name": "Build + {spr} or {pun} ",
+      "value": "{wb} {cs} {ss} {tb} {mur} {boe}\n\n{sw} {gg} {cs} {bos} {mur} {boe}",
+      "inline": false
+    },
+    {
+      "name": "Useful Links",
+      "value": "Click [here](https://m.youtube.com/watch?v=YYh3EbPAMq8) to check out Fennik's Hero Spotlight!",
+      "inline": false 
+    }
+  ]
+}
