@@ -1,0 +1,35 @@
+{
+  "author": {
+    "name": "Moren ",
+    "icon_url": "https://i.imgur.com/KjCyGsc.png"
+  },
+  "color": 53380,
+  "footer": {
+    "text": "Tier: A",
+    "icon_url": "https://images.emojiterra.com/google/android-nougat/512px/1f3c6.png"
+  },
+  "thumbnail": "https://i.imgur.com/v3mUqC6.png",
+  "image": "https://i.imgur.com/IlstDzj.jpg",
+  "fields": [
+    {
+      "name": "Position",
+      "value": "Jungle, Abyssal",
+      "inline": true
+    },
+    {
+      "name": "Arcanas",
+      "value": "Blitz, Guerilla, Skewer",
+      "inline": false
+    },
+    {
+      "name": "Build + {pun} or {fli} ",
+      "value": "{sw} {gg} {cs} {bos} {mur} {ft}\n\n{wb} {cs} {ss} {bos} {mur} {boe}",
+      "inline": false
+    },
+    {
+      "name": "Useful Links",
+      "value": "Click [here](https://www.youtube.com/watch?v=wNmSK7yFMoY) to check out Moren's  Hero Spotlight!",
+      "inline": false
+    }
+  ]
+}
