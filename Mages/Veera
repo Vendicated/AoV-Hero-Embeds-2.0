@@ -1,0 +1,35 @@
+{
+  "author": {
+    "name": "Veera",
+    "icon_url": "https://i.imgur.com/2ykK0bh.png"
+  },
+  "color": 53380,
+  "footer": {
+    "text": "Tier: F",
+    "icon_url": "https://images.emojiterra.com/google/android-nougat/512px/1f3c6.png"
+  },
+  "thumbnail": "https://i.imgur.com/XSYpXCv.png",
+  "image": "https://i.imgur.com/74oi378.jpg",
+  "fields": [
+    {
+      "name": "Position",
+      "value": "Mid",
+      "inline": true
+    },
+    {
+      "name": "Arcanas",
+      "value": "Violate, Benevolence, Violate",
+      "inline": false
+    },
+    {
+      "name": "Build + {spr} ",
+      "value": "{pt} {hs} {boo} {hd} {rbl} {son}",
+      "inline": false
+    },
+    {
+      "name": "Useful Links",
+      "value": "Click [here](https://www.youtube.com/watch?v=wQ-E_XUdZWM) to check out Veera's Hero Spotlight!",
+      "inline": false
+    }
+  ]
+}
