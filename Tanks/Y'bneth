@@ -1,0 +1,35 @@
+{
+  "author": {
+    "name": "Y'bneth",
+    "icon_url": "https://i.imgur.com/R0YeVnB.png"
+  },
+  "color": 53380,
+  "footer": {
+    "text": "Tier: A",
+    "icon_url": "https://images.emojiterra.com/google/android-nougat/512px/1f3c6.png"
+  },
+  "thumbnail": "https://i.imgur.com/kvCpvvM.png",
+  "image": "https://i.imgur.com/JwnDH10.png",
+  "fields": [
+    {
+      "name": "Position",
+      "value": "Slayer, Support",
+      "inline": true
+    },
+    {
+      "name": "Arcanas",
+      "value": "Onslaught, Benevolence, Skewer",
+      "inline": false
+    },
+    {
+      "name": "Build + {fli}",
+      "value": "{eotw} {gg} {ta} {mot} {mop} {boe}\n\n{mor} {gg} {sol} {mot} {ft} {boe}",
+      "inline": false
+    },
+    {
+      "name": "Useful Links",
+      "value": "Click [here](https://www.youtube.com/watch?v=ieJ9Y9meJoo) to check out Y'bneth's Hero Spotlight!",
+      "inline": false
+    }
+  ]
+}
