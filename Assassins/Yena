@@ -1,0 +1,30 @@
+{
+  "author": {
+    "name": "Yena",
+    "icon_url": "https://i.imgur.com/K29f4f8.png"
+  },
+  "color": 53380,
+  "footer": {
+    "text": "Tier: S",
+    "icon_url": "https://images.emojiterra.com/google/android-nougat/512px/1f3c6.png"
+  },
+  "thumbnail": "https://i.imgur.com/cYcsMBI.png",
+  "image": "https://i.imgur.com/vdFqSLs.jpg",
+  "fields": [
+    {
+      "name": "Position",
+      "value": "Slayer",
+      "inline": true
+    },
+    {
+      "name": "Arcanas",
+      "value": "Onslaught, Benevolence, Skewer",
+      "inline": false
+    },
+    {
+      "name": "Build + {fli} ",
+      "value": "{sol} {gg} {oa} {mop} {ft} {boe}",
+      "inline": false
+    }
+  ]
+}
