@@ -1,0 +1,35 @@
+{
+  "author": {
+    "name": "Liliana",
+    "icon_url": "https://i.imgur.com/2ykK0bh.png"
+  },
+  "color": 53380,
+  "footer": {
+    "text": "Tier: S",
+    "icon_url": "https://images.emojiterra.com/google/android-nougat/512px/1f3c6.png"
+  },
+  "thumbnail": "https://imgur.com/V3ipzWg.png",
+  "image": "https://i.imgur.com/4yEXC68.jpg",
+  "fields": [
+    {
+      "name": "Position",
+      "value": "Mid",
+      "inline": true
+    },
+    {
+      "name": "Arcanas",
+      "value": "Violate, Benevolence, Flurry",
+      "inline": false
+    },
+    {
+      "name": "Build + {fli} ",
+      "value": "{ootm} {gg} {boo} {sm} {hd} {rbl}",
+      "inline": false
+    },
+    {
+      "name": "Useful Links",
+      "value": "Click [here](https://www.youtube.com/watch?v=PEibyAj69kk) to check out Liliana's Hero Spotlight!",
+      "inline": false
+    }
+  ]
+}
