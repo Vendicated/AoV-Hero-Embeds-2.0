@@ -1,0 +1,35 @@
+{
+  "author": {
+    "name": "Mganga",
+    "icon_url": "https://i.imgur.com/2ykK0bh.png"
+  },
+  "color": 53380,
+  "footer": {
+    "text": "Tier: B",
+    "icon_url": "https://images.emojiterra.com/google/android-nougat/512px/1f3c6.png"
+  },
+  "thumbnail": "https://i.imgur.com/E2ns6Nx.png",
+  "image": "https://i.imgur.com/guhfcLL.jpg",
+  "fields": [
+    {
+      "name": "Position",
+      "value": "Mid",
+      "inline": true
+    },
+    {
+      "name": "Arcanas",
+      "value": "Violate, Guerilla, Flurry",
+      "inline": false
+    },
+    {
+      "name": "Build + {spr} ",
+      "value": "{ootm} {ek} {ba} {fr} {hd} {son}",
+      "inline": false
+    },
+    {
+      "name": "Useful Links",
+      "value": "Click [here](https://www.youtube.com/watch?v=j8oXsDWKASI) to check out Mganga's Hero Spotlight!",
+      "inline": false
+    }
+  ]
+}
