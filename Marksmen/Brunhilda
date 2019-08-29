@@ -1,0 +1,36 @@
+{
+  "author": {
+    "name": "Brunhilda",
+    "\",": null,
+    "icon_url": "https://i.imgur.com/KjCyGsc.png"
+  },
+  "color": 53380,
+  "footer": {
+    "text": "Tier: A",
+    "icon_url": "https://images.emojiterra.com/google/android-nougat/512px/1f3c6.png"
+  },
+  "thumbnail": "https://i.imgur.com/kmRC24D.png",
+  "image": "https://i.imgur.com/XpHr9FS.png",
+  "fields": [
+    {
+      "name": "Position",
+      "value": "Abyssal",
+      "inline": true
+    },
+    {
+      "name": "Arcanas",
+      "value": "Onslaught, Guerrilla, Skewer",
+      "inline": false
+    },
+    {
+      "name": "Build + {fli}",
+      "value": "{wb} {cs} {dh} {bos} {mur} {boe}",
+      "inline": false
+    },
+    {
+      "name": "Useful Links",
+      "value": "Click [here](https://www.youtube.com/watch?v=86UjZfj99tc) to check out Brunhilda's Hero Spotlight!",
+      "inline": false
+    }
+  ]
+}
