@@ -1,0 +1,30 @@
+{
+  "author": {
+    "name": "Toro",
+    "icon_url": "https://i.imgur.com/R0YeVnB.png"
+  },
+  "color": 53380,
+  "footer": {
+    "text": "Tier: F",
+    "icon_url": "https://images.emojiterra.com/google/android-nougat/512px/1f3c6.png"
+  },
+  "thumbnail": "https://i.imgur.com/DoA77VD.png",
+  "image": "https://i.imgur.com/g0Hf9T8.jpg",
+  "fields": [
+    {
+      "name": "Position",
+      "value": "Support",
+      "inline": true
+    },
+    {
+      "name": "Arcanas",
+      "value": "Indomitable, Benevolence, Valiance",
+      "inline": false
+    },
+    {
+      "name": "Build + {fli} ",
+      "value": "{tm} {sb} {ta} {gs} {mop} {boe}",
+      "inline": false
+    }
+  ]
+}
