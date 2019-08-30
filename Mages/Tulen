@@ -1,0 +1,35 @@
+{
+  "author": {
+    "name": "Tulen",
+    "icon_url": "https://i.imgur.com/2ykK0bh.png"
+  },
+  "color": 53380,
+  "footer": {
+    "text": "Tier: A",
+    "icon_url": "https://images.emojiterra.com/google/android-nougat/512px/1f3c6.png"
+  },
+  "thumbnail": "https://i.imgur.com/WJWrKuw.png",
+  "image": "https://i.imgur.com/GD4wW8c.jpg",
+  "fields": [
+    {
+      "name": "Position",
+      "value": "Mid",
+      "inline": true
+    },
+    {
+      "name": "Arcanas",
+      "value": "Violate, Benevolance, Flurry",
+      "inline": false
+    },
+    {
+      "name": "Build + {fli} ",
+      "value": "{ootm} {gg} {hd} {boo} {rbl} {son}",
+      "inline": false
+    },
+    {
+      "name": "Useful Links",
+      "value": "Click [here](https://www.youtube.com/watch?v=dsyL-U7gla8) to check out Tulen's Hero Spotlight!",
+      "inline": false
+    }
+  ]
+}
