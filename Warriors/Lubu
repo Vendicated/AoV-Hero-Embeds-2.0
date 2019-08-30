@@ -1,0 +1,35 @@
+{
+  "author": {
+    "name": "Lu Bu",
+    "icon_url": "https://i.imgur.com/yfptDE9.png"
+  },
+  "color": 53380,
+  "footer": {
+    "text": "Tier: B",
+    "icon_url": "https://images.emojiterra.com/google/android-nougat/512px/1f3c6.png"
+  },
+  "thumbnail": "https://i.imgur.com/ehcnkzN.png",
+  "image": "https://i.imgur.com/l7Lbd2o.jpg",
+  "fields": [
+    {
+      "name": "Position",
+      "value": "Slayer",
+      "inline": true
+    },
+    {
+      "name": "Arcanas",
+      "value": "Onslaught, Assassinate, Skewer",
+      "inline": false
+    },
+    {
+      "name": "Build + {fli} ",
+      "value": "{hm} {sb} {rb} {fc} {fta} {mot}",
+      "inline": false
+    },
+    {
+      "name": "Useful Links",
+      "value": "Click [here](https://www.youtube.com/watch?v=Ye_vLr6dGgc) to check out Lubu's Hero Spotlight!",
+      "inline": false 
+    }
+  ]
+}
