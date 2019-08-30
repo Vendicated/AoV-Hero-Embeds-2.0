@@ -1,0 +1,35 @@
+{
+  "author": {
+    "name": "Wukong",
+    "icon_url": "https://i.imgur.com/K29f4f8.png"
+  },
+  "color": 53380,
+  "footer": {
+    "text": "Tier: B-",
+    "icon_url": "https://images.emojiterra.com/google/android-nougat/512px/1f3c6.png"
+  },
+  "thumbnail": "https://i.imgur.com/ZebfMwu.png",
+  "image": "https://i.imgur.com/BXjIIle.jpg", 
+  "fields": [
+    {
+      "name": "Position",
+      "value": "Jungle",
+      "inline": true
+    },
+    {
+      "name": "Arcanas",
+      "value": "Rampage, Tryant, Skewer",
+      "inline": false
+    },
+    {
+      "name": "Build + {pun} ",
+      "value": "{sr} {hs} {cs} {ss} {rb} {ft}",
+      "inline": false
+    },
+    {
+      "name": "Useful Links",
+      "value": "Click [here](https://www.youtube.com/watch?v=hWcXQgEswpw) to check out Wukong's hero spotlight!",
+      "inline": false
+    }
+  ]
+}
