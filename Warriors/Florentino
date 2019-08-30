@@ -1,0 +1,30 @@
+{
+  "author": {
+    "name": "Florentino",
+    "icon_url": "https://i.imgur.com/yfptDE9.png"
+  },
+  "color": 53380,
+  "footer": {
+    "text": "Tier: SSS",
+    "icon_url": "https://images.emojiterra.com/google/android-nougat/512px/1f3c6.png"
+  },
+  "thumbnail": "https://i.imgur.com/NfK7TT3.png",
+  "image": "https://i.imgur.com/DIFoS4e.png",
+  "fields": [
+    {
+      "name": "Position",
+      "value": "Slayer Lane",
+      "inline": true
+    },
+    {
+      "name": "Arcanas",
+      "value": "Atrocity, Guerrilla, Skewer",
+      "inline": false
+    },
+    {
+      "name": "Build + {fli}",
+      "value": "{rb} {gg} {hm} {oa} {ft} {boe}",
+      "inline": false
+    }
+  ]
+}
