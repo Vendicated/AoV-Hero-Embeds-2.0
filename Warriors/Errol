@@ -1,0 +1,35 @@
+{
+  "author": {
+    "name": "Errol",
+    "icon_url": "https://i.imgur.com/yfptDE9.png"
+  },
+  "color": 53380,
+  "footer": {
+    "text": "Tier: A",
+    "icon_url": "https://images.emojiterra.com/google/android-nougat/512px/1f3c6.png"
+  },
+  "thumbnail": "https://i.imgur.com/9YrNMxO.png",
+  "image": "https://i.imgur.com/pC4mSUn.jpg",
+  "fields": [
+    {
+      "name": "Position",
+      "value": "Slayer, Jungle",
+      "inline": true
+    },
+    {
+      "name": "Arcanas",
+      "value": "Onslaught, Assassinate, Skewer",
+      "inline": false
+    },
+    {
+      "name": "Build + {fli} or {pun} ",
+      "value": "{rb} {gg} {hm} {oa} {ft} {boe}\n\n{sr} {gg} {rb} {oa} {hm} {boe}",
+      "inline": false
+    },
+    {
+      "name": "Useful Links",
+      "value": "Click [here](https://www.youtube.com/watch?v=YfiimY2q7XA) to check out Errol's Hero Spotlight!",
+      "inline": false 
+    }
+  ]
+}
