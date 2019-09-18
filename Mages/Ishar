@@ -1,0 +1,35 @@
+{
+  "author": {
+    "name": "Ishar",
+    "icon_url": "https://i.imgur.com/2ykK0bh.png"
+  },
+  "color": 53380,
+  "footer": {
+    "text": "Tier: B",
+    "icon_url": "https://images.emojiterra.com/google/android-nougat/512px/1f3c6.png"
+  },
+  "thumbnail": "https://i.imgur.com/sJfiSb5.png",
+  "image": "https://i.imgur.com/5zdtTZV.png",
+  "fields": [
+    {
+      "name": "Position",
+      "value": "Mid, Support",
+      "inline": true
+    },
+    {
+      "name": "Arcanas",
+      "value": "Violate, Benevolence, Flurry",
+      "inline": false
+    },
+    {
+      "name": "Build + {fli}",
+      "value": "{ootm} {ek} {boo} {hd} {rbl} {son}\n\n{rotf} {gg} {ta} {gs} {mop} {boe}",
+      "inline": false
+    },
+    {
+      "name": "Useful Links",
+      "value": "Coming soon",
+      "inline": false
+    }
+  ]
+}
