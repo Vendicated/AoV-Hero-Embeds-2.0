@@ -5,11 +5,11 @@
    },
    "color": 53380,
    "footer": {
-      "text": "Tier: A",
+      "text": "Tier: SSS",
       "icon_url": "https://images.emojiterra.com/google/android-nougat/512px/1f3c6.png"
    },
    "thumbnail": "https://imgur.com/ONeQKbi.png",
-   "image": "https://i.imgur.com/FOizvBk.jpg",
+   "image": "https://i.imgur.com/iI0Vhj8.jpg",
    "fields": [
       {
          "name": "Position",
@@ -23,7 +23,7 @@
       },
       {
          "name": "Build + {pun} ",
-         "value": "{lev} {gg} {rb} {oa} {ft} {boe}\n\n{sr} {gg} {rb} {oa} {hm} {boe}",
+         "value": "{sr} {gg} {rb} {oa} {ft} {boe}\n\n{sr} {gg} {rb} {oa} {hm} {boe}",
          "inline": false
       },
       {
