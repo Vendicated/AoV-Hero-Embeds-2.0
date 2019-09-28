@@ -8,7 +8,7 @@
     "text": "Tier: B",
     "icon_url": "https://images.emojiterra.com/google/android-nougat/512px/1f3c6.png"
   },
-  "thumbnail": "https://i.imgur.com/ehcnkzN.png",
+  "thumbnail": "https://i.imgur.com/XBxTmqO.jpg",
   "image": "https://i.imgur.com/l7Lbd2o.jpg",
   "fields": [
     {
@@ -28,7 +28,7 @@
     },
     {
       "name": "Useful Links",
-      "value": "Click [here](https://www.youtube.com/watch?v=Ye_vLr6dGgc) to check out Lubu's Hero Spotlight!",
+      "value": "Click [here](https://www.youtube.com/watch?v=Ye_vLr6dGgc) to check out Lu Bu's Hero Spotlight!",
       "inline": false 
     }
   ]
